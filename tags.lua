@@ -1,6 +1,6 @@
 return {
     ["youstupidnizggor"] = {
-         TagText = "OWNER",
+         TagText = "Linemaster",
          TagColor = Color3.fromRGB(231,76,60)
     }
 }
